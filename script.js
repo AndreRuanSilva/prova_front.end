@@ -1,3 +1,3 @@
 function mudarTexto() {
-    document.getElementById("demo").innerHTML = "npta maxima?";
+    document.getElementById("demo").innerHTML = "nota maxima?";
 }
